@@ -6,4 +6,7 @@ langchain
 openai
 dotenv
 
+Create a .env file with OPENAI_API_KEY
+
+
 To Run: streamlit run main.py
